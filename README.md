@@ -44,6 +44,15 @@ Juan
 
 Pasos para instalar el proyecto localmente
 
-```bash 
+```bash
+
 git clone https://github.com/juanezzzzz/repo_dos-.git
+
+```
+---
+## Video tutorial
+
+[![Click para video](asset/imagen.png)](https://youtu.be/XyLngkF3OmE?si=Q55WcOjN3h_2ilr9)
+
+
 
