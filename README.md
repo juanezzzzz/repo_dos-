@@ -1,6 +1,6 @@
 # Proyecto de uso de herramienta GIT con contribuyente
 
-Breve descripción 
+Juan
 
 ---
 
