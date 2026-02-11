@@ -1,6 +1,6 @@
 # Proyecto de uso de herramienta GIT con contribuyente
 
-Linea para generar conflicto rama Juan.
+Breve descripción 
 
 ---
 
