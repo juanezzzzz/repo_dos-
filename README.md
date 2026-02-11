@@ -30,14 +30,14 @@ Breve descripción
 - Axios
 - Bootstrap
 
----
+
 
 ## Requerimientos
 - Versión minima del lenguaje
 - Dependecias necesarias
 - Software requerido
 
---
+
 
 ## Instalación 
 
