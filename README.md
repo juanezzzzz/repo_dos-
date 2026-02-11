@@ -28,7 +28,7 @@ Breve descripción
 - Dependecias necesarias
 - Software requerido
 
---
+
 
 ## Instalación 
 
