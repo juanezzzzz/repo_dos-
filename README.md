@@ -6,30 +6,39 @@ Juan
 ---
 
 ## Tabla de contenido
-- [Caracteristicas](#caracteristicas)
-- [Tecnologías](#tecologías)
-- [Requerimientos](#requerimientos)
-- [Intalación]("#instalación)
+- [Proyecto de uso de herramienta GIT con contribuyente](#proyecto-de-uso-de-herramienta-git-con-contribuyente)
+  - [Tabla de contenido](#tabla-de-contenido)
+  - [Caracteristicas](#caracteristicas)
+  - [Tecologías](#tecologías)
+  - [Requerimientos](#requerimientos)
+  - [Instalación](#instalación)
 
 ## Caracteristicas 
-- Funcionalidad 1
-- Funcionalidad 2
-- Funcionalidad 3
+- Interfaz intuitiva y minimalista
+- Gestión de tareas por estados (Pendiente, En Progreso, Completada)
+- Sistema de usuarios con autenticación básica
+- Organización por proyectos
+- Diseño responsivo adaptable a dispositivos móviles
 
 ---
 ## Tecologías
-- Lenguaje / Framework principal
-- Bases de datos
-- Librerias claves
+- JavaScript
+- Node.js con Express (Backend)
+- React.js (Frontend)
+- MongoDB
+- Mongoose
+- JWT (JSON Web Token)
+- Axios
+- Bootstrap
 
----
+
 
 ## Requerimientos
 - Versión minima del lenguaje
 - Dependecias necesarias
 - Software requerido
 
---
+
 
 ## Instalación 
 
