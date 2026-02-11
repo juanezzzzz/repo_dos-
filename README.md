@@ -21,9 +21,14 @@ Breve descripción
 
 ---
 ## Tecologías
-- Lenguaje / Framework principal
-- Bases de datos
-- Librerias claves
+- JavaScript
+- Node.js con Express (Backend)
+- React.js (Frontend)
+- MongoDB
+- Mongoose
+- JWT (JSON Web Token)
+- Axios
+- Bootstrap
 
 ---
 
