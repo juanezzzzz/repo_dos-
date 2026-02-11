@@ -54,6 +54,6 @@ git clone https://github.com/juanezzzzz/repo_dos-.git
 
 [![Click para video](asset/imagen.png)](https://youtu.be/XyLngkF3OmE?si=Q55WcOjN3h_2ilr9)
 
-[![Click para video]([![Click para video](asset/imagen.png)](https://youtu.be/XyLngkF3OmE?si=Q55WcOjN3h_2ilr9)
+[![Click para video](https://share.google/YvotmcZZPA228NFgR)](https://youtu.be/XyLngkF3OmE?si=Q55WcOjN3h_2ilr9)
 
 
